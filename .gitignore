@@ -1,0 +1,13 @@
+# 包含敏感信息的配置文件（由 server.js 动态生成）
+js/config.js
+start.ps1
+
+# 依赖
+node_modules/
+
+# Cloudflare Wrangler 缓存
+.wrangler/
+
+# 系统文件
+.DS_Store
+Thumbs.db

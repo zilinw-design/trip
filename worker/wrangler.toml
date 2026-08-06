@@ -1,0 +1,6 @@
+# Cloudflare Worker 配置
+name = "changsha-amap-proxy"
+main = "worker.js"
+compatibility_date = "2025-01-01"
+
+# 部署后你的 Worker 地址是: https://changsha-amap-proxy.你的用户名.workers.dev
